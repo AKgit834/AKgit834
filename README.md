@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Aaditya Kaushik<br>I am interested in gaming, coding and tech.<br>I am currently learning ML and DSA.<br>seeking collaboration on ML projects.<br>Reach out to me at @aadityakaushik01
+Hi, I am Aaditya Kaushik<br>I am interested in gaming, coding and tech.<br>I am looking for an internship in ML domain.<br>seeking collaboration on ML projects.<br>Reach out to me at @aadityakaushik01
 
 
 ## 🌐 Socials:
